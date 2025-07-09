@@ -58,13 +58,6 @@ Enter your choice:
 If you like this project, please ⭐ star this repo and consider contributing!
 
 
----
 
-✅ Just update:
-- `your-username` with your GitHub username  
-- `harshpatil@example.com` with your email  
-- `https://your-portfolio-link.com` with your actual portfolio or LinkedIn
-
-Let me know if you want a downloadable file or need help creating the GitHub repo structure.
 
  
