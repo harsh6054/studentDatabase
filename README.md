@@ -52,7 +52,6 @@ Welcome to Student Database System
 4. Update Student
 5. Delete Student
 6. Exit
-Enter your choice:
 
 ⭐ Support
 If you like this project, please ⭐ star this repo and consider contributing!
